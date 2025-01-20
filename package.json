@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "markdownlint-cli": "^0.26.0",
-    "textlint": "^11.6.3",
+    "markdownlint-cli": "^0.38.0",
+    "textlint": "^14.4.1",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-filter-rule-whitelist": "^2.0.0",
     "textlint-rule-terminology": "^2.1.4"
